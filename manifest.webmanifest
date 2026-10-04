@@ -1,0 +1,20 @@
+{
+  "name": "طالب DZ",
+  "short_name": "طالب DZ",
+  "description": "رفيقك الجامعي من التسجيل حتى التخرج",
+  "start_url": "/taleb_Dz/",
+  "scope": "/taleb_Dz/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#123B5D",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/taleb_Dz/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
